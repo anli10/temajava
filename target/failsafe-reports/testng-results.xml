@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="31" started-at="2017-08-03T13:42:08Z" finished-at="2017-08-03T13:42:09Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="31" started-at="2017-08-03T13:42:08Z" finished-at="2017-08-03T13:42:09Z">
+      <class name="co.endava.caluculator.AddIT">
+        <test-method status="PASS" signature="initBasicCalc()[pri:0, instance:co.endava.caluculator.AddIT@1ccaa]" name="initBasicCalc" is-config="true" duration-ms="16" started-at="2017-08-03T16:42:08Z" finished-at="2017-08-03T16:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBasicCalc -->
+        <test-method status="PASS" signature="addLongTest()[pri:0, instance:co.endava.caluculator.AddIT@1ccaa]" name="addLongTest" duration-ms="0" started-at="2017-08-03T16:42:09Z" finished-at="2017-08-03T16:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLongTest -->
+        <test-method status="PASS" signature="addIntegerTest()[pri:0, instance:co.endava.caluculator.AddIT@1ccaa]" name="addIntegerTest" duration-ms="0" started-at="2017-08-03T16:42:09Z" finished-at="2017-08-03T16:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addIntegerTest -->
+        <test-method status="PASS" signature="addDoubleTest()[pri:0, instance:co.endava.caluculator.AddIT@1ccaa]" name="addDoubleTest" duration-ms="0" started-at="2017-08-03T16:42:09Z" finished-at="2017-08-03T16:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDoubleTest -->
+      </class> <!-- co.endava.caluculator.AddIT -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

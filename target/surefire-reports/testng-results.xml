@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="co.endava.caluculator.FactTest" duration-ms="47" started-at="2017-08-03T13:42:04Z" finished-at="2017-08-03T13:42:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47" started-at="2017-08-03T13:42:04Z" finished-at="2017-08-03T13:42:04Z">
+      <class name="co.endava.caluculator.FactTest">
+        <test-method status="PASS" signature="factorial()[pri:0, instance:co.endava.caluculator.FactTest@5a99da]" name="factorial" duration-ms="0" started-at="2017-08-03T16:42:04Z" finished-at="2017-08-03T16:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- factorial -->
+      </class> <!-- co.endava.caluculator.FactTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- co.endava.caluculator.FactTest -->
+</testng-results>
